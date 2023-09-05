@@ -12,24 +12,25 @@ access the playlist they have made. Finally, there is a general info page that i
 about top songs, artists, and more.
 
 Start page: 
-![image](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/f94898d1-47bf-4946-8ba4-a2800a141403)
+![start_page](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/57c30d83-d6cb-4c38-9aaf-440cf161ff8d)
 
 Create playlist page:
-![image](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/38fc2f2c-be24-4fd3-963c-888a35a454c9)
-![image](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/96e744bd-c4e1-4587-90d9-8807736fdeba)
+![second_page](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/95127548-ff42-4a80-b89b-25441db946c4)
+![third_page](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/a2a1f97c-a636-49ed-88e6-7a342b922e61)
 
 Playlist page:
 Input the specific party duration, the vibe, and event type and the user gets back a list of songs for their playlist. 
 
 Add/Delete friends page:
+
 Users are able to add a friend with their phone number, update the phone number, or delete the friend. 
-![image](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/b0b3a9e0-8de1-4b49-b37b-f7d9abc6a7b4)
+![friend_page](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/4a8de34d-b45c-4c83-be72-644e25ded752)
 
 Song info page: 
 1) User can search song info. This returns back the artist and the danceability score for that song.
 2) Users can get top artists. Returns the top artists along with their streams.
-3) Users can get most danceable songs. Returns the most danceable songs along with the danceability score for each of those songs. 
-![image](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/bb5c277e-6a78-42a8-b45b-e62b0a729814)
+3) Users can get most danceable songs. Returns the most danceable songs along with the danceability score for each of those songs.
+![info_page](https://github.com/martinapz/Personalized-Playlist-Producer/assets/69597141/f3db4ad7-5ea4-42d4-8fa0-b9100eb31b95)
 
 
 
