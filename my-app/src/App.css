@@ -1,0 +1,116 @@
+/** start screen */
+.ss-title {
+  padding-top: 10rem;
+  font-size: 5rem;
+  font-family: 'Jumble';
+  text-transform: uppercase;
+  color: #f1f1f1;
+}
+.ss-subtitle {
+  font-size: 2.5rem;
+  text-Transform: capitalize;
+  color: #f1f1f1;
+}
+.ss-button {
+  margin-top: 5rem;
+  margin-right: 1rem;
+  padding: .6rem;
+  width: 20rem;
+  background: rgb(33, 32, 32);
+  color: #fff;
+  font-size: 1.5rem;
+  transition: all .5s;
+  cursor: pointer;
+}
+/** end start screen */
+
+/** login page */
+#login-button {
+  display: block;
+  width: 100%;
+  padding: .3rem;
+  border: none;
+  background: rgb(69, 0, 125);
+  color: rgb(246, 246, 246);
+}
+.login-button-2 {
+  display: block;
+  width: 100%;
+  padding: .3rem;
+  border: none;
+  background: rgb(69, 0, 125);
+  color: rgb(246, 246, 246);
+}
+.login-title {
+  padding-top: 10rem;
+  font-size: 5rem;
+  font-family: 'Jumble';
+  text-transform: uppercase;
+  color: #f1f1f1;
+}
+form {
+  display: inline-block;
+  background: #dedaff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 3rem;
+  margin: 1rem 0 1rem 0
+}
+form label {
+  float: left;
+  font-size: .9rem;
+  margin: 0;
+  padding: 0
+}
+input {
+  width: 15rem;
+  padding: .3rem;
+  border-radius: 5px;
+  outline: none;
+  border: none
+}
+/** end login page */
+
+/* Create playlist page */
+.cp-title {
+  padding-top: 5.5rem;
+  font-size: 5rem;
+  font-family: 'Jumble';
+  text-transform: uppercase;
+  color: #ff0000;
+  background-color: white;
+}
+.cp-form {
+  width: 400px;
+  display: inline-block;
+  background: #ff5757;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2rem;
+  margin: 100px
+}
+.cp-label {
+  font-size: 2.0rem;
+  font-family: 'Jumble';
+  text-transform: uppercase;
+  color: #f1f1f1;
+}
+.cp-button {
+  display: block;
+  width: 100%;
+  padding: .3rem;
+  border: none;
+  background: rgb(54, 52, 49);
+  color: rgb(246, 246, 246);
+}
+
+/* Song Info page */
+.si-form {
+  width: 600px;
+  display: inline-block;
+  background: #ff5757;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2rem;
+  margin: 100px
+}
